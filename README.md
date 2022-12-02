@@ -3,10 +3,8 @@
 I'm pixel artist🎨 and Unity C# programer💻.
 
 ### 🌐 socials
-<center>
 [<img src="https://skillicons.dev/icons?i=twitter"/>](http://twitter.com/Nissy64_)
 [<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.gg/Amw22HMQ4s)
-</center>
 
 ### 🌱 my skills
 [![My Skills](https://skillicons.dev/icons?i=git,github,unity,cs,vscode&theme=dark)](https://skillicons.dev)
