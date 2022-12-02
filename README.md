@@ -1,6 +1,8 @@
 
 ## 🇯🇵 About Nissy64
-I'm pixel artist🎨 and Unity C# programer💻.
+<div style="text-align: center;">
+  I'm pixel artist🎨 and Unity C# programer💻.
+</div>
 
 ### 🌐 socials
 [<img src="https://skillicons.dev/icons?i=twitter"/>](http://twitter.com/Nissy64_)
