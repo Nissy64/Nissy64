@@ -1,6 +1,6 @@
 
 ## 🇯🇵 About Nissy64
-<div style="text-align: center;">
+<div align="center">
   I'm pixel artist🎨 and Unity C# programer💻.
 </div>
 
