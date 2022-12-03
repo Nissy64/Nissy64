@@ -7,13 +7,16 @@
 
 <h3 align="center"> 🌐 socials</h3>
 
-[<img src="https://skillicons.dev/icons?i=twitter"/>](http://twitter.com/Nissy64_)
-[<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.gg/Amw22HMQ4s)
+<div align="center"><img src="https://skillicons.dev/icons?i=twitter"/></div>
+<div align="center"><a href="https://twitter.com/Nissy64">Twitter</a></div>
+
+<div align="center"><img src="https://skillicons.dev/icons?i=discord"/></div>
+<div align="center"><a href="https://discord.gg/Amw22HMQ4s">Discord</a></div>
 
 <h3 align="center"> 🌱 my skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,unity,cs,vscode&theme=dark)](https://skillicons.dev)
+<div align="center"><img src="https://skillicons.dev/icons?i=git,github,unity,cs,vscode&theme=dark"/></div>
 
 <h2 align="center">📈 Status</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nissy64&show_icons=true)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nissy64&show_icons=true"></div>
