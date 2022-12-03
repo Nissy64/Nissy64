@@ -40,6 +40,6 @@
 
   <div align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nissy64&show_icons=true&bg_color=45,cc208e,6713d2&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nissy64&langs_count=3&layout=compact"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nissy64&langs_count=3&hide=mathematica&layout=compact&bg_color=45,cc208e,6713d2&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
   </div>
 </body>
