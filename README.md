@@ -7,12 +7,12 @@
 
 <h3 align="center"> 🌐 socials</h3>
 
-　　　　　　　[<img src="https://skillicons.dev/icons?i=twitter"/>](http://twitter.com/Nissy64_)
+[<img src="https://skillicons.dev/icons?i=twitter"/>](http://twitter.com/Nissy64_)
 [<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.gg/Amw22HMQ4s)
 
 <h3 align="center"> 🌱 my skills</h3>
 
-　　[![My Skills](https://skillicons.dev/icons?i=git,github,unity,cs,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,unity,cs,vscode&theme=dark)](https://skillicons.dev)
 
 <h2 align="center">📈 Status</h2>
 
