@@ -8,7 +8,7 @@
 <h3 align="center"> 🌐 socials</h3>
 
 <div align="center"><img src="https://skillicons.dev/icons?i=twitter"/></div>
-<div align="center"><a href="https://twitter.com/Nissy64">Twitter</a></div>
+<div align="center"><a href="https://twitter.com/Nissy64_">Twitter</a></div>
 
 <div align="center"><img src="https://skillicons.dev/icons?i=discord"/></div>
 <div align="center"><a href="https://discord.gg/Amw22HMQ4s">Discord</a></div>
