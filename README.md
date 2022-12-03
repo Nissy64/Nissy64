@@ -1,9 +1,5 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
 <body>
-  <h2 align="center">🇯🇵 About Nissy64</h2>
+  <h2 align="center">👋 About Nissy64</h2>
 
   <div align="center">
     I'm pixel artist🎨 and Unity C# programer💻.
