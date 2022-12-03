@@ -39,9 +39,7 @@
   <h2 align="center">📈 Status</h2>
 
   <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nissy64&show_icons=true"/>
-    <a href="https://github.com/Nissy64/github-readme-stats">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nissy64&langs_count=5"/>
-    </a>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nissy64&show_icons=true"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nissy64&langs_count=3&layout=compact"/>
   </div>
 </body>
