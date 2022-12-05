@@ -16,14 +16,6 @@
     <a href="https://twitter.com/Nissy64_">Twitter</a>
   </div>
 
-  <!-- Discord -->
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=discord">
-  </div>
-  <div align="center">
-    <a href="https://discord.gg/Amw22HMQ4s">Discord</a>
-  </div>
-
 
   <h3 align="center"> 🌱 my skills</h3>
 
