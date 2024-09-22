@@ -5,18 +5,6 @@
     I'm pixel artist🎨 and Unity C# programer💻.
   </div>
 
-
-  <h3 align="center"> 🌐 socials</h3>
-
-  <!-- Twitter -->
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=twitter">
-  </div>
-  <div align="center">
-    <a href="https://twitter.com/Nissy64_">Twitter</a>
-  </div>
-
-
   <h3 align="center"> 🌱 my skills</h3>
 
   <div align="center">
